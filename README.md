@@ -15,6 +15,6 @@
 4) 위 3안 외에 자유 주제 분석 가능
 * 사용가능툴 : Python, R, Tableau
 
+![012](https://user-images.githubusercontent.com/103649749/183958762-a659508f-0cf6-456c-b50a-c867151cfa6f.png)![030](https://user-images.githubusercontent.com/103649749/183958789-ab3886ca-4c76-47d9-8ccd-2eec3a699d18.png)
 
-<img width="773" alt="스크린샷 2022-08-11 오전 1 04 19" src="https://user-images.githubusercontent.com/103649749/183958252-3a24642d-a831-4dbf-93a8-2e29370555e6.png">
-<img width="762" alt="스크린샷 2022-08-11 오전 1 04 39" src="https://user-images.githubusercontent.com/103649749/183958311-573594b5-ecca-4e25-af46-7c9f69b6ff74.png">
+
