@@ -17,7 +17,8 @@
 
 # 분석 프로세스
 <img width="600" src="https://user-images.githubusercontent.com/103649749/183958762-a659508f-0cf6-456c-b50a-c867151cfa6f.png">
-# 최종 
+
+# 최종 입지선정
 <img width="600" src="https://user-images.githubusercontent.com/103649749/183958789-ab3886ca-4c76-47d9-8ccd-2eec3a699d18.png">
 
 
