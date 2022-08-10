@@ -5,7 +5,7 @@
 ### 팀원: 정민희,김현정,문지영,양혜란,서현수
 
 
-<img width="850" alt="스크린샷 2022-08-11 오전 1 00 54" src="https://user-images.githubusercontent.com/103649749/183957498-9b09e481-1aab-43d1-ba5a-8328059fe264.png">
+<img width="850" alt="스크린샷 2022-08-11 오전 1 00 54" src="https://user-images.githubusercontent.com/103649749/183957498-9b09e481-1aab-43d1-ba5a-8328059fe264.png">{: width="100" height="100"}
 
 * 문화 공공데이터 및 빅데이터를 활용한 분석 인사이트 도출 사례
 - 분석 주제 -
@@ -15,6 +15,7 @@
 4) 위 3안 외에 자유 주제 분석 가능
 * 사용가능툴 : Python, R, Tableau
 
-![012](https://user-images.githubusercontent.com/103649749/183958762-a659508f-0cf6-456c-b50a-c867151cfa6f.png)![030](https://user-images.githubusercontent.com/103649749/183958789-ab3886ca-4c76-47d9-8ccd-2eec3a699d18.png)
+![012](https://user-images.githubusercontent.com/103649749/183958762-a659508f-0cf6-456c-b50a-c867151cfa6f.png){: width="100" height="100"}
+![030](https://user-images.githubusercontent.com/103649749/183958789-ab3886ca-4c76-47d9-8ccd-2eec3a699d18.png){: width="100" height="100"}
 
 
