@@ -1,4 +1,4 @@
-# 2022 문화빅데이터 캠퍼스 공모전
+# 2022 문화데이터 
 
 ### 팀명: 시소(시니어와 소통하자)
 ### 주제: 시니어 IT 방송지원 시설 위치 선정
@@ -24,4 +24,4 @@
 
 
 
-출처: [2022 문화빅데이터 캠퍼스 공모전](https://www.culture.go.kr/data/contest/about01.do)
+출처: [2022 문화 데이터 활용 경진대회](https://www.culture.go.kr/data/contest/about01.do)
