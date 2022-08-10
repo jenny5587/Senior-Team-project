@@ -5,7 +5,7 @@
 ### 팀원: 정민희,김현정,문지영,양혜란,서현수
 
 
-<img width="200" alt="스크린샷 2022-08-11 오전 1 00 54" src="https://user-images.githubusercontent.com/103649749/183957498-9b09e481-1aab-43d1-ba5a-8328059fe264.png">
+<img width="600" alt="스크린샷 2022-08-11 오전 1 00 54" src="https://user-images.githubusercontent.com/103649749/183957498-9b09e481-1aab-43d1-ba5a-8328059fe264.png">
 
 * 문화 공공데이터 및 빅데이터를 활용한 분석 인사이트 도출 사례
 - 분석 주제 -
