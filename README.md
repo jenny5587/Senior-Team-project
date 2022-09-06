@@ -21,7 +21,10 @@
 ## 최종 입지선정
 <img width="600" src="https://user-images.githubusercontent.com/103649749/183958789-ab3886ca-4c76-47d9-8ccd-2eec3a699d18.png">
 
+## 본선 진출
+<img width="474" alt="스크린샷 2022-09-06 오후 5 42 10" src="https://user-images.githubusercontent.com/103649749/188589375-ba47e578-b91e-4eb6-8074-19c8b4c162f3.png">
 
+* LG 유플러스에서 실제 데이터를 인계받아 실효성 및 분석 진행
 
 
 출처: [2022 문화 데이터 활용 경진대회](https://www.culture.go.kr/data/contest/about01.do)
