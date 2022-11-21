@@ -27,6 +27,6 @@
 * LG 유플러스에서 실제 데이터를 인계받아 실효성 및 분석 진행
 
 ## 우수상
-<![상장](https://user-images.githubusercontent.com/103649749/203088586-dfb8868c-3523-452d-809b-51acdfc62491.jpeg)>
+<img width="600" src="https://user-images.githubusercontent.com/103649749/203088586-dfb8868c-3523-452d-809b-51acdfc62491.jpeg">
 
 출처: [2022 문화 데이터 활용 경진대회](https://www.culture.go.kr/data/contest/about01.do)
